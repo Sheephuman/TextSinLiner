@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSinLiner", "TextSinLiner\TextSinLiner.csproj", "{D9E258F5-E0FE-442B-8528-9CD0E50BB60D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E258F5-E0FE-442B-8528-9CD0E50BB60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E258F5-E0FE-442B-8528-9CD0E50BB60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E258F5-E0FE-442B-8528-9CD0E50BB60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E258F5-E0FE-442B-8528-9CD0E50BB60D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3EE07BA-F578-417B-B733-BC2C00054FC0}
+	EndGlobalSection
+EndGlobal
